@@ -1,0 +1,1 @@
+const solution=(_,$) => (new Date(2016,--_,$)+'').toUpperCase().slice(0, 3)
